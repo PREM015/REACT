@@ -3,6 +3,11 @@ import React from "react";
 
 // Importing Link and NavLink from react-router-dom for navigation
 import { Link, NavLink } from "react-router-dom";
+/*
+✅ Use **`<Link>`** when you just want to navigate between pages.  
+
+✅ Use **`<NavLink>`** when you also want to highlight the active page in the navbar.
+ */
 
 export default function Header() {
     return (

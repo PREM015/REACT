@@ -1,5 +1,5 @@
 {
-  "name": "11-reduxtoolkit",
+  "name": "12-sample",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,11 +11,14 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.6.1",
-    "@tailwindcss/vite": "^4.1.3",
+    "@tinymce/tinymce-react": "^6.1.0",
+    "appwrite": "^17.0.1",
+    "html-react-parser": "^5.2.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-hook-form": "^7.55.0",
     "react-redux": "^9.2.0",
-    "tailwindcss": "^4.1.3"
+    "react-router-dom": "^7.5.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",

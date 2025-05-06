@@ -1,6 +1,15 @@
+# .github/dependabot.yml
 version: 2
 updates:
   - package-ecosystem: "npm"
-    directory: "/" # Root of the project
+    directory: "/"
     schedule:
       interval: "daily"
+    open-pull-requests-limit: 10
+    allow:
+      - dependency-type: "direct"
+    ignore:
+      - dependency-name: "some-ignored-package"
+    labels:
+      - "dependencies"
+    auto-merge: true

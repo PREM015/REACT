@@ -46,7 +46,7 @@ const styles = {
     borderRadius: "10px",
     fontFamily: "sans-serif",
     textAlign: "center",
-    background: "#f0f0f0"
+    backgroundColor: "#f0f0f0"
   }
 };
 

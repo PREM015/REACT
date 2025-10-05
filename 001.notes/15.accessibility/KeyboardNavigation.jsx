@@ -1,0 +1,1 @@
+// KeyboardNavigation.jsx - Example placeholder

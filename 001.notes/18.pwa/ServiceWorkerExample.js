@@ -1,0 +1,1 @@
+// ServiceWorkerExample.js - Example placeholder

@@ -1,0 +1,1 @@
+// IndexedDBDemo.jsx - Example placeholder

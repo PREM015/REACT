@@ -1,0 +1,1 @@
+// OfflineCacheExample.jsx - Example placeholder

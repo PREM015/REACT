@@ -1,0 +1,1 @@
+// CSRFExample.jsx - Example placeholder

@@ -1,0 +1,1 @@
+// startTransitionExample.jsx - Example placeholder

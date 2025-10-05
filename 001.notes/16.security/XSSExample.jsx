@@ -1,0 +1,1 @@
+// XSSExample.jsx - Example placeholder

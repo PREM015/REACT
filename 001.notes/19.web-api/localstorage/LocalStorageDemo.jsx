@@ -1,0 +1,1 @@
+// LocalStorageDemo.jsx - Example placeholder

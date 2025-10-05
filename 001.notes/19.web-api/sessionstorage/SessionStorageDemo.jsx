@@ -1,0 +1,1 @@
+// SessionStorageDemo.jsx - Example placeholder

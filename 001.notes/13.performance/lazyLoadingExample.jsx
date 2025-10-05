@@ -1,0 +1,1 @@
+// lazyLoadingExample.jsx - Example placeholder

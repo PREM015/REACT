@@ -1,0 +1,1 @@
+// codeSplittingExample.jsx - Example placeholder

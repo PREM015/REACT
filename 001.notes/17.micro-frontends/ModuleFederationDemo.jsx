@@ -1,0 +1,1 @@
+// ModuleFederationDemo.jsx - Example placeholder

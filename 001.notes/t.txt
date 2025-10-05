@@ -1,0 +1,384 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 084B-A865
+D:.
+¦   i.py
+¦   t.txt
+¦   
++---00.setup
+¦   +---01.vite
+¦   ¦       README.md
+¦   ¦       sample.jsx
+¦   ¦       
+¦   +---environment
+¦   ¦       .browserlist-explained.md
+¦   ¦       README.md
+¦   ¦       
+¦   +---tools
+¦           README.md
+¦           useful-extensions.md
+¦           
++---01.basics
+¦   +---01.jsx
+¦   ¦       01.JSXExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---02.components
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---01.class-components
+¦   ¦   ¦       01.ClassComponent.jsx
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---02.functional-components
+¦   ¦           01.FunctionalComponent.jsx
+¦   ¦           README.md
+¦   ¦           
+¦   +---03.props-vs-state
+¦   ¦       01.PropsExample.jsx
+¦   ¦       02.StateExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---04.conditional-rendering
+¦   ¦       01.TernaryExample.jsx
+¦   ¦       02.AndOperatorExample.jsx
+¦   ¦       03.IfElseExample.jsx
+¦   ¦       04.SwitchExample.jsx
+¦   ¦       05.EarlyReturnExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---05.composition
+¦   ¦       CompositionExample.jsx
+¦   ¦       InheritanceExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---06.rendering
+¦   ¦       01.VirtualDOM.jsx
+¦   ¦       02.DeclarativeVsImperative.jsx
+¦   ¦       03.ReconciliationExplanation.jsx
+¦   ¦       04.DiffingDemo.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---07.component-lifecycle
+¦   ¦       01.LifecycleDemoClass.jsx
+¦   ¦       02.LifecycleDemoHook.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---08.lists-and-keys
+¦   ¦       01.KeyUsageExample.jsx
+¦   ¦       02.ListRenderExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---09.events
+¦           01.BasicClickEvent.jsx
+¦           02.InputChangeEvent.jsx
+¦           README.md
+¦           
++---02.advanced-patterns
+¦   +---children-prop
+¦   ¦       CustomCard.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---error-boundaries
+¦   ¦       ErrorBoundaryExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---fiber-architecture
+¦   ¦       README.md
+¦   ¦       SchedulingDemo.jsx
+¦   ¦       
+¦   +---high-order-components
+¦   ¦       README.md
+¦   ¦       WithLogger.jsx
+¦   ¦       
+¦   +---portals
+¦   ¦       ModalPortal.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---render-props
+¦   ¦       MouseTracker.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---suspense
+¦           README.md
+¦           SuspenseExample.jsx
+¦           
++---03.hooks
+¦   +---basic-hooks
+¦   ¦   +---useEffect
+¦   ¦   ¦       DataFetchEffect.jsx
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---useState
+¦   ¦           CounterExample.jsx
+¦   ¦           README.md
+¦   ¦           
+¦   +---common-hooks
+¦   ¦   +---useCallback
+¦   ¦   ¦       CallbackExample.jsx
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---useContext
+¦   ¦   ¦       README.md
+¦   ¦   ¦       ThemeContextExample.jsx
+¦   ¦   ¦       
+¦   ¦   +---useMemo
+¦   ¦   ¦       MemoExample.jsx
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---useReducer
+¦   ¦   ¦       README.md
+¦   ¦   ¦       ReducerExample.jsx
+¦   ¦   ¦       
+¦   ¦   +---useRef
+¦   ¦           README.md
+¦   ¦           RefExample.jsx
+¦   ¦           
+¦   +---custom-hooks
+¦   ¦       README.md
+¦   ¦       useWindowWidth.js
+¦   ¦       
+¦   +---hooks-best-practices
+¦           HooksBestPractices.md
+¦           
++---04.state-management
+¦   +---context-api
+¦   ¦       README.md
+¦   ¦       ThemeContextExample.jsx
+¦   ¦       
+¦   +---jotai
+¦   ¦       JotaiExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---mobx
+¦   ¦       README.md
+¦   ¦       
+¦   +---recoil
+¦   ¦       README.md
+¦   ¦       RecoilExample.jsx
+¦   ¦       
+¦   +---redux
+¦   ¦       README.md
+¦   ¦       ReduxExample.jsx
+¦   ¦       
+¦   +---rtk-query
+¦   ¦       README.md
+¦   ¦       RTKQueryExample.jsx
+¦   ¦       
+¦   +---zustand
+¦           README.md
+¦           ZustandExample.jsx
+¦           
++---05.routing
+¦   +---reach-router
+¦   ¦       README.md
+¦   ¦       
+¦   +---react-router
+¦   ¦       BasicRouting.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---tanstack-router
+¦           README.md
+¦           
++---06.forms
+¦   +---controlled-uncontrolled
+¦   ¦       ControlledForm.jsx
+¦   ¦       README.md
+¦   ¦       UncontrolledForm.jsx
+¦   ¦       
+¦   +---final-form
+¦   ¦       README.md
+¦   ¦       
+¦   +---formik
+¦   ¦       FormikExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---react-hook-form
+¦           HookFormExample.jsx
+¦           README.md
+¦           
++---07.css-in-react
+¦   +---ark-ui
+¦   ¦       ArkExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---chakra-ui
+¦   ¦       ChakraCard.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---css-modules
+¦   ¦       README.md
+¦   ¦       StyledBox.module.css
+¦   ¦       
+¦   +---mantine
+¦   ¦       README.md
+¦   ¦       
+¦   +---material-ui
+¦   ¦       MaterialInput.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---panda-css
+¦   ¦       PandaExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---radix-ui
+¦   ¦       RadixExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---react-aria
+¦   ¦       AccessibleButton.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---shadcn-ui
+¦   ¦       README.md
+¦   ¦       ShadcnExample.jsx
+¦   ¦       
+¦   +---tailwind-css
+¦           README.md
+¦           TailwindButton.jsx
+¦           
++---08.api-calls
+¦   +---apollo
+¦   ¦       ApolloExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---axios
+¦   ¦       AxiosFetch.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---fetch
+¦   ¦       FetchExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---graphql
+¦   ¦       GraphQLExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---react-query
+¦   ¦       ReactQueryExample.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---relay
+¦   ¦       README.md
+¦   ¦       
+¦   +---superagent
+¦   ¦       README.md
+¦   ¦       
+¦   +---swr
+¦   ¦       README.md
+¦   ¦       SWRExample.jsx
+¦   ¦       
+¦   +---urql
+¦           README.md
+¦           URQLExample.jsx
+¦           
++---09.testing
+¦   +---cypress
+¦   ¦       login.cy.js
+¦   ¦       README.md
+¦   ¦       
+¦   +---jest
+¦   ¦       README.md
+¦   ¦       sample.test.js
+¦   ¦       
+¦   +---playwright
+¦   ¦       playwright.spec.js
+¦   ¦       README.md
+¦   ¦       
+¦   +---react-testing-library
+¦   ¦       App.test.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---vitest
+¦           basic.test.js
+¦           README.md
+¦           
++---10.frameworks
+¦   +---astro
+¦   ¦       README.md
+¦   ¦       
+¦   +---nextjs
+¦   ¦       README.md
+¦   ¦       
+¦   +---remix
+¦           README.md
+¦           
++---11.animation
+¦   +---framer-motion
+¦   ¦       AnimateBox.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---gsap
+¦   ¦       GsapIntro.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---react-spring
+¦           README.md
+¦           SpringCard.jsx
+¦           
++---12.native-apps
+¦   +---react-native
+¦           HelloRNApp.js
+¦           README.md
+¦           
++---13.performance
+¦       codeSplittingExample.jsx
+¦       lazyLoadingExample.jsx
+¦       ReactMemo.jsx
+¦       README.md
+¦       useMemoExample.jsx
+¦       
++---14.concurrency
+¦       README.md
+¦       startTransitionExample.jsx
+¦       useDeferredValueExample.jsx
+¦       
++---15.accessibility
+¦       ARIAExample.jsx
+¦       KeyboardNavigation.jsx
+¦       README.md
+¦       
++---16.security
+¦       CSRFExample.jsx
+¦       README.md
+¦       XSSExample.jsx
+¦       
++---17.micro-frontends
+¦       ModuleFederationDemo.jsx
+¦       README.md
+¦       
++---18.pwa
+¦       OfflineCacheExample.jsx
+¦       README.md
+¦       ServiceWorkerExample.js
+¦       
++---19.web-api
+¦   ¦   README.md
+¦   ¦   
+¦   +---indexeddb
+¦   ¦       IndexedDBDemo.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---localstorage
+¦   ¦       LocalStorageDemo.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---notifications
+¦   ¦       NotificationDemo.jsx
+¦   ¦       README.md
+¦   ¦       
+¦   +---sessionstorage
+¦   ¦       README.md
+¦   ¦       SessionStorageDemo.jsx
+¦   ¦       
+¦   +---websocket
+¦           README.md
+¦           WebSocketDemo.jsx
+¦           
++---20.web-components
+¦       CustomElementDemo.jsx
+¦       README.md
+¦       
++---21.three-js
+        README.md
+        ThreeJsExample.jsx
+        
